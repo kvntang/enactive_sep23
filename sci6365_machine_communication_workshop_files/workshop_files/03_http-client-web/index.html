@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Simple HTTP Client</title>
+
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
+
+<body>
+    <fieldset>
+        <legend>Setup</legend>
+
+        <div id="controls-setup">
+            URL: <input id="server-address" value="http://127.0.0.1:5566/arithmetic/sum" style="width: 500px;">
+        </div>
+        <div>
+            Request Type: 
+            <select name="verb" class="dropdown" id="verb-selector">
+                <option value="GET">GET</option>
+                <option value="POST" selected>POST</option>
+              </select>
+        </div>
+    </fieldset>
+
+    <fieldset>
+        <legend>Request Body</legend>
+
+        <textarea id="request-content">
+{
+    "a": 10,
+    "b": 5 
+}</textarea>
+
+        <div>
+            <button id="request-button">Request</button>
+        </div>
+    </fieldset>
+
+    <fieldset>
+        <legend>Response Body</legend>
+
+        <textarea id="response-content"></textarea> 
+    </fieldset>
+
+    <!-- Load the main script at the end of the page, when all the DOM elements are already present -->
+    <script type="text/javascript" src="js/script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,22 @@
+C:\Users\jlx\Desktop\tcp-client\bin\Debug\tcp-client.exe.config
+C:\Users\jlx\Desktop\tcp-client\bin\Debug\tcp-client.exe
+C:\Users\jlx\Desktop\tcp-client\bin\Debug\tcp-client.pdb
+C:\Users\jlx\Desktop\tcp-client\obj\Debug\tcp-client.csprojAssemblyReference.cache
+C:\Users\jlx\Desktop\tcp-client\obj\Debug\tcp-client.csproj.CoreCompileInputs.cache
+C:\Users\jlx\Desktop\tcp-client\obj\Debug\tcp-client.exe
+C:\Users\jlx\Desktop\tcp-client\obj\Debug\tcp-client.pdb
+D:\Dropbox\JL\GSD 2022-23\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\04_tcp\tcp-client\bin\Debug\tcp-client.exe.config
+D:\Dropbox\JL\GSD 2022-23\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\04_tcp\tcp-client\bin\Debug\tcp-client.exe
+D:\Dropbox\JL\GSD 2022-23\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\04_tcp\tcp-client\bin\Debug\tcp-client.pdb
+D:\Dropbox\JL\GSD 2022-23\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\04_tcp\tcp-client\obj\Debug\tcp-client.csprojAssemblyReference.cache
+D:\Dropbox\JL\GSD 2022-23\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\04_tcp\tcp-client\obj\Debug\tcp-client.csproj.CoreCompileInputs.cache
+D:\Dropbox\JL\GSD 2022-23\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\04_tcp\tcp-client\obj\Debug\tcp-client.exe
+D:\Dropbox\JL\GSD 2022-23\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\04_tcp\tcp-client\obj\Debug\tcp-client.pdb
+D:\Dropbox\JL\GSD 2023-24\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\04_tcp\tcp-client\bin\Debug\tcp-client.exe.config
+D:\Dropbox\JL\GSD 2023-24\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\04_tcp\tcp-client\bin\Debug\tcp-client.exe
+D:\Dropbox\JL\GSD 2023-24\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\04_tcp\tcp-client\bin\Debug\tcp-client.pdb
+D:\Dropbox\JL\GSD 2023-24\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\04_tcp\tcp-client\obj\Debug\tcp-client.csproj.AssemblyReference.cache
+D:\Dropbox\JL\GSD 2023-24\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\04_tcp\tcp-client\obj\Debug\tcp-client.csproj.SuggestedBindingRedirects.cache
+D:\Dropbox\JL\GSD 2023-24\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\04_tcp\tcp-client\obj\Debug\tcp-client.csproj.CoreCompileInputs.cache
+D:\Dropbox\JL\GSD 2023-24\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\04_tcp\tcp-client\obj\Debug\tcp-client.exe
+D:\Dropbox\JL\GSD 2023-24\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\04_tcp\tcp-client\obj\Debug\tcp-client.pdb

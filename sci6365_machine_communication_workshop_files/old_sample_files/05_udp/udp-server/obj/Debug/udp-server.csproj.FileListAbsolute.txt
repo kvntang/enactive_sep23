@@ -1,0 +1,22 @@
+C:\Users\jlx\Desktop\udp-server\bin\Debug\udp-server.exe.config
+C:\Users\jlx\Desktop\udp-server\bin\Debug\udp-server.exe
+C:\Users\jlx\Desktop\udp-server\bin\Debug\udp-server.pdb
+C:\Users\jlx\Desktop\udp-server\obj\Debug\udp-server.csprojAssemblyReference.cache
+C:\Users\jlx\Desktop\udp-server\obj\Debug\udp-server.csproj.CoreCompileInputs.cache
+C:\Users\jlx\Desktop\udp-server\obj\Debug\udp-server.exe
+C:\Users\jlx\Desktop\udp-server\obj\Debug\udp-server.pdb
+D:\Dropbox\JL\GSD 2022-23\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\05_udp\udp-server\bin\Debug\udp-server.exe.config
+D:\Dropbox\JL\GSD 2022-23\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\05_udp\udp-server\bin\Debug\udp-server.exe
+D:\Dropbox\JL\GSD 2022-23\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\05_udp\udp-server\bin\Debug\udp-server.pdb
+D:\Dropbox\JL\GSD 2022-23\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\05_udp\udp-server\obj\Debug\udp-server.csprojAssemblyReference.cache
+D:\Dropbox\JL\GSD 2022-23\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\05_udp\udp-server\obj\Debug\udp-server.csproj.CoreCompileInputs.cache
+D:\Dropbox\JL\GSD 2022-23\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\05_udp\udp-server\obj\Debug\udp-server.exe
+D:\Dropbox\JL\GSD 2022-23\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\05_udp\udp-server\obj\Debug\udp-server.pdb
+D:\Dropbox\JL\GSD 2023-24\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\05_udp\udp-server\bin\Debug\udp-server.exe.config
+D:\Dropbox\JL\GSD 2023-24\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\05_udp\udp-server\bin\Debug\udp-server.exe
+D:\Dropbox\JL\GSD 2023-24\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\05_udp\udp-server\bin\Debug\udp-server.pdb
+D:\Dropbox\JL\GSD 2023-24\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\05_udp\udp-server\obj\Debug\udp-server.csproj.AssemblyReference.cache
+D:\Dropbox\JL\GSD 2023-24\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\05_udp\udp-server\obj\Debug\udp-server.csproj.SuggestedBindingRedirects.cache
+D:\Dropbox\JL\GSD 2023-24\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\05_udp\udp-server\obj\Debug\udp-server.csproj.CoreCompileInputs.cache
+D:\Dropbox\JL\GSD 2023-24\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\05_udp\udp-server\obj\Debug\udp-server.exe
+D:\Dropbox\JL\GSD 2023-24\SCI-6365 Enactive Design\13 - Machine Comm II\workshop_files\05_udp\udp-server\obj\Debug\udp-server.pdb

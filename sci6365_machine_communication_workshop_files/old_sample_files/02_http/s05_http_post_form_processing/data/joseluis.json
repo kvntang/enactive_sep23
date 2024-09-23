@@ -1,0 +1,28 @@
+{
+    "name": "Jose Luis",
+    "age": 18,
+    "height": 5.9,
+    "student": false,
+    "languages": [
+        "en",
+        "es",
+        "de"
+    ],
+    "pet": {
+        "name": "meeps",
+        "type": "cat",
+        "age": 4
+    },
+    "parents": [
+        {
+            "name": "Jose Luis",
+            "age": 70,
+            "type": "dad"
+        },
+        {
+            "name": "Ana Maria",
+            "age": 68,
+            "type": "mum"
+        }
+    ]
+}
